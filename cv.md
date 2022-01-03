@@ -23,10 +23,12 @@ I am currently studying:
 * Python
 * Linux
 ## Code Example *(codewars.com)*
+```javascript
 function multiply(a, b){
  a * b  
   return a * b
 }
+```
 ## Education
 * University: Belarusian National Technical University *(Faculty of Transport Communications)*
 * Сourses: RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
